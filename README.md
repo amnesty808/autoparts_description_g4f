@@ -28,4 +28,4 @@
 Для установки необходимых библиотек используйте `pip`:
 
 ```bash
-pip install asyncio requests g4f
+pip install -r requirements.txt
