@@ -18,4 +18,5 @@
 Вы можете установить необходимые библиотеки с помощью pip:
 
 ```bash
-pip install asyncio requests g4f
+pip install -r requirements.txt
+
